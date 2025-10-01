@@ -26,7 +26,10 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Fuuuzer}/count.svg" /></p> 
+     <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<Fuuuzer>"/>  
+    </div>
 <br></div>
 
 
